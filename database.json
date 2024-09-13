@@ -1,3 +1,7 @@
 {
- "key": "masin"
+  "users": [
+    {
+      "password": "RifkyShre"
+    }
+  ]
 }
